@@ -3,23 +3,19 @@ This Power BI project provides an end-to-end analysis of credit card transaction
 🔹 Key Highlights:
 
 Credit Card Transaction Report – Tracks revenue, total interest earned, transaction amounts, and card usage across categories, chips, expenditure types, and quarters.
-
 Credit Card Customer Report – Analyzes income, revenue by demographics (age, gender, education, dependents), job profiles, income groups, states, and marital status.
-
 KPIs: Revenue (₹57M), Interest Earned (₹8M), Transactions (667K), Income (₹588M), CSS Score (3.19).
-
 Interactive Filters: Time (weekly), card type, chip type, gender, education, and more.
 
 🔹 Technical Implementation:
 
 Built using Power BI Desktop with data modeling and relationships across multiple tables.
-
 Created calculated columns and DAX measures for KPIs (Revenue, Interest, Count, CSS, Income by group).
-
 Used CALCULATE, SUM, FILTER, SWITCH, DIVIDE and time intelligence functions for advanced metrics.
-
 Applied data cleaning and transformation in Power Query (M language) for consistent formats and hierarchies.
-
 Designed dashboards with user-friendly slicers, responsive visuals, and drill-down reports for interactivity.
+
+<img width="521" height="608" alt="image" src="https://github.com/user-attachments/assets/1775c6b7-787f-4480-84cc-532f9e827cb5" />
+
 
 This project demonstrates strong skills in Power BI, DAX, data modeling, and storytelling with data, providing actionable insights into customer spending and credit card business performance.
