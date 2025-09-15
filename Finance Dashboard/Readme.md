@@ -97,7 +97,7 @@ Segment-Year COGS     = SUM(FinanceData[COGS])
 Segment-Year Profit   = SUM(FinanceData[Profit])
 ```
  
-#### 📊 Key Insights
+### 📊 Key Insights
 
     Identify top-performing products by sales and profit.
     Track discount impact on overall revenue.
