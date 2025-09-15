@@ -1,4 +1,4 @@
-# 💳 Credit Card Financial Dashboard (Power BI)
+## 💳 Credit Card Financial Dashboard (Power BI)
 
 This Power BI project provides an end-to-end analysis of credit card transactions and customer behavior, combining financial KPIs with demographic insights.  
 It delivers a detailed view of revenue, interest, income, and spending trends** to support better decision-making.
