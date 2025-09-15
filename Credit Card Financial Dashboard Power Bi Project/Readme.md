@@ -72,8 +72,8 @@ This project demonstrates strong skills in:
 
 ## 👩‍💻 **Connect with Me**
 
-- [LinkedIn](www.linkedin.com/in/sai-subhashree-14681520b)  
-- [EmailID](saidalal02@gmail.com)  
+- LinkedIn- www.linkedin.com/in/sai-subhashree-14681520b 
+- EmailID -saidalal02@gmail.com  
 
 ---
 
